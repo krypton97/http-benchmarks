@@ -1,0 +1,17 @@
+name: raze
+version: 0.1.0
+
+authors:
+  -  <bldcuber@gmail.com>
+
+targets:
+  raze:
+    main: src/raze.cr
+
+crystal: 0.22.0
+
+dependencies:
+  raze:
+    github: samueleaton/raze
+
+license: MIT
