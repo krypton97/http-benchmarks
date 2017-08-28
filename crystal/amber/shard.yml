@@ -1,0 +1,17 @@
+name: kemal
+version: 0.1.0
+
+authors:
+  -  <bldcuber@gmail.com>
+
+targets:
+  kemal:
+    main: src/amber.cr
+
+crystal: 0.22.0
+
+dependencies:
+  amber:
+    github: Amber-Crystal/amber
+
+license: MIT
