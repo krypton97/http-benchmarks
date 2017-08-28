@@ -11,4 +11,4 @@ get "/" do
   "Hello, World!"
 end
 
-Raze.run 3000
+Raze.run
